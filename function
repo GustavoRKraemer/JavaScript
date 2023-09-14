@@ -1,0 +1,6 @@
+function mostrarMensagem() {
+  console.log("bom dia mundo");
+}
+mostrarMensagem()
+
+
